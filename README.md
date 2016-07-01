@@ -1,4 +1,4 @@
-# Code-To-Word: HashMaps
+# Code-To-Work: HashMaps
 
 Activity using HashMaps, create a program in Android Studio that will take in a three-letter country code and will return the full name of the country to which it belongs. Created for learning Android Studio.
 
